@@ -1,2 +1,3 @@
-# interview-prep
-This is for the AI interview prep platform
+# Interview Prep
+
+An AI-powered interview preparation platform.

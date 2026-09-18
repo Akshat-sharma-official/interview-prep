@@ -1,0 +1,27 @@
+@import "tailwindcss";
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.container h1 {
+  font-size: 40px;
+}
+
+.container p {
+  font-size: 18px;
+  color: gray;
+}
+
+.container button {
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
